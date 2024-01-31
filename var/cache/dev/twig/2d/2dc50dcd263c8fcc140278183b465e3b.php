@@ -133,7 +133,7 @@ class __TwigTemplate_77d86647ba995160b204b8be476a5671 extends Template
 
     public function getSourceContext()
     {
-        return new Source("{# POUR la voir url _error/404 #}
+        return new Source("{# Pour voir la page en mode 'dev' il faut aller sur l'url URL_SITE/_error/404 #}
 
 {% extends 'base.html.twig' %}
 
