@@ -1,2 +1,2 @@
 # ecommerce
-ecommerce développé avec Syfony
+ecommerce développé avec Symfony
