@@ -1505,3 +1505,10 @@ e4e9ac,127.0.0.1,GET,http://127.0.0.1:8000/assets/css/bootstrap.min.css.map,1706
 bba84b,127.0.0.1,GET,http://127.0.0.1:8000/assets/css/bootstrap.min.css.map,1706379173,,404,request
 1afa71,127.0.0.1,GET,http://127.0.0.1:8000/assets/js/bootstrap.bundle.min.js.map,1706379174,11d42a,404,request
 11d42a,127.0.0.1,GET,http://127.0.0.1:8000/assets/js/bootstrap.bundle.min.js.map,1706379174,,404,request
+20974b,127.0.0.1,GET,http://127.0.0.1:8001/,1706693797,,200,request
+2c3085,127.0.0.1,GET,http://127.0.0.1:8001/assets/css/bootstrap.min.css.map,1706693798,5d2a61,404,request
+5d2a61,127.0.0.1,GET,http://127.0.0.1:8001/assets/css/bootstrap.min.css.map,1706693798,,404,request
+af13c7,127.0.0.1,GET,http://127.0.0.1:8001/assets/js/bootstrap.bundle.min.js.map,1706693799,c5c08b,404,request
+c5c08b,127.0.0.1,GET,http://127.0.0.1:8001/assets/js/bootstrap.bundle.min.js.map,1706693799,,404,request
+5b9a1d,127.0.0.1,GET,http://127.0.0.1:8001/assets/css/bootstrap.min.css.map,1706693804,1ab2cb,404,request
+1ab2cb,127.0.0.1,GET,http://127.0.0.1:8001/assets/css/bootstrap.min.css.map,1706693804,,404,request
